@@ -1,0 +1,4 @@
+# Optional: install only if you want pretrained sentence embeddings or UMAP.
+-r requirements.txt
+sentence-transformers>=2.6
+umap-learn>=0.5

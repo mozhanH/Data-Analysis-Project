@@ -1,0 +1,20 @@
+{
+  "data_roots": [
+    "data/raw"
+  ],
+  "review_paths": {
+    "Musical_Instruments": null,
+    "Video_Games": null
+  },
+  "metadata_paths": {
+    "Musical_Instruments": null,
+    "Video_Games": null
+  },
+  "output_root": "outputs",
+  "sample_size_per_category": 40000,
+  "seed": 42,
+  "categories": [
+    "Musical_Instruments",
+    "Video_Games"
+  ]
+}

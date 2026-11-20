@@ -1,0 +1,11 @@
+# Local data and execution artifacts
+/data/raw/*
+!/data/raw/README.txt
+/outputs/*
+!/outputs/README.txt
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/*.log
+.DS_Store
